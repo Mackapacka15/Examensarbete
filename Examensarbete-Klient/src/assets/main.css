@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: calc(10px + 1vw);
+  background-color: rgba(104, 116, 125, 0.576);
+}
